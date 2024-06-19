@@ -17,19 +17,19 @@ int main (){
 		
 	} else if (mark<80&&mark>=70){
 		
-		printf("b grade");
+		printf("b+ grade");
 		
 	} else if (mark<70&&mark>=60){
 		
-		printf("c grade");
+		printf("b grade");
 		
 	} else if (mark<60&&mark>=45){
 		
-		printf("d grade");
+		printf("c grade");
 		
 	}  else if (mark<45&&mark>=35){
 		
-		printf("* grade");
+		printf("d grade");
 		
 	} else {
 		
